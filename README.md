@@ -1,1 +1,1 @@
-# veri-madencili-i-d-nem-devi
+# veri-madenciligi-donem-odevi
