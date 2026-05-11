@@ -1,0 +1,1 @@
+# veri-madencili-i-d-nem-devi
