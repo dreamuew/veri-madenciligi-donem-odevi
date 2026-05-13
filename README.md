@@ -12,6 +12,8 @@ Yapılan dağılım (distributions) grafiğinde en çok aydan aya (month-to-mont
 
 2. KISIM
 
+Üç modelin başarı oranlarını içeren karşılaştırma tablosu.
+
 <img width="487" height="253" alt="image" src="https://github.com/user-attachments/assets/993d575f-d65a-4054-91b3-24157b288376" />
 
 (test and score)
@@ -26,9 +28,17 @@ Yapılan dağılım (distributions) grafiğinde en çok aydan aya (month-to-mont
 (confusion matrix)
 
 
+
+
 Karar ağacı sözleşme süresine göre karar vermiştir.
 
 <img width="295" height="157" alt="image" src="https://github.com/user-attachments/assets/3342213e-cb64-4286-a368-20e7c666ee19" />
 
 (tree viewer)
+
+
+
+<img width="323" height="381" alt="image" src="https://github.com/user-attachments/assets/83a31766-3f3e-4021-8dc1-87251fdbd72c" />
+
+Şirket için en riskli müşteri profili elde edilen verilere göre; sözleşmesi aydan aya, internet servisi fiber optik, en fazla 15 aydır müşteri, toplam ödemesi 119.75 birim ve altında, teknik destek almayan, aylık ödemesi 69.85 birim ve altında olanlardır.
 
