@@ -42,5 +42,5 @@ Karar ağacı sözleşme süresine göre karar vermiştir.
 
 Şirket için en riskli müşteri profili elde edilen verilere göre; sözleşmesi aydan aya, internet servisi fiber optik, en fazla 15 aydır müşteri, toplam ödemesi 119.75 birim ve altında, teknik destek almayan, aylık ödemesi 69.85 birim ve altında olanlardır.
 
-"C:\Users\timur\Documents\dönem ödevi\veri madenciliği dönem ödevi.ows"
+
 
