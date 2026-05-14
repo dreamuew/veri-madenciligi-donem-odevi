@@ -1,8 +1,10 @@
-# veri-madenciligi-donem-odevi
-1. KISIM
+<h1 align="center">veri-madenciligi-donem-odevi</h1> 
+
+## 1. KISIM: Veriyi Tanıma ve Hazırlama (Preprocessing & EDA)
 
 <img width="1326" height="413" alt="Ekran görüntüsü 2026-05-11 213243" src="https://github.com/user-attachments/assets/6e32d91e-28c1-48f3-bcd6-7758d33436a5" />
 
+(akış şeması)
 
 <img width="488" height="377" alt="image" src="https://github.com/user-attachments/assets/597cccab-5853-49fd-8024-93db5c753283" />
 
@@ -10,7 +12,7 @@ Yapılan dağılım (distributions) grafiğinde en çok aydan aya (month-to-mont
 
 #
 
-2. KISIM
+## 2. KISIM: Tahminleme ve Model Değerlendirme (Modeling & Evaluation)
 
 Üç modelin başarı oranlarını içeren karşılaştırma tablosu.
 
