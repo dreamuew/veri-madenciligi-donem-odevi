@@ -4,6 +4,8 @@
 
 Telco Customer Churn veri seti ile veri analizi yapıyoruz.
 
+TotalCharges sütunu, yeni müşterilere ait (tenure=0) boşluk karakterleri barındırdığı için başlangıçta "text" olarak algılanmıştır. Analiz öncesinde bu sütun impute widgeti ile NaN değerleri ortalama ile doldurarak sayısal (numeric) tipe dönüştürmüştür.
+
 <img width="1326" height="413" alt="akış şeması" src="https://github.com/user-attachments/assets/6e32d91e-28c1-48f3-bcd6-7758d33436a5" />
 
 (akış şeması)
@@ -17,6 +19,7 @@ Yapılan dağılım (distributions) grafiğinde en çok aydan aya (month-to-mont
 ## 2. KISIM: Tahminleme ve Model Değerlendirme (Modeling & Evaluation)
 
 Üç modelin başarı oranlarını içeren karşılaştırma tablosu.
+En başarılı model Logistic Regression olmuştur
 
 <img width="487" height="253" alt="image" src="https://github.com/user-attachments/assets/993d575f-d65a-4054-91b3-24157b288376" />
 
@@ -41,6 +44,7 @@ Karar ağacı sözleşme süresine göre karar vermiştir.
 (tree viewer)
 
 
+### Analiz Sonucu: En Yüksek Riskli Segment
 
 <img width="323" height="381" alt="image" src="https://github.com/user-attachments/assets/83a31766-3f3e-4021-8dc1-87251fdbd72c" />
 
